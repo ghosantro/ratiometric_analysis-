@@ -7,8 +7,8 @@ fname='2015-10-06_17h18m01s_PM1394Cam00.dat';
 fname_full=strcat(Folder_path,'\',fname) ;
 Save_Restult_Path='J:\Abbirami Sathappan\cell culture\201510062_analysis\set7';
 
-pacing_frequency=0.5; %unknown 
-known_pacing=0.5; %unknown 
+pacing_frequency=0; %unknown/ 0/ 0/0.5
+known_pacing=0; %unknown/ 0/ 0.5
 pixels = 128;  
 light_number = 2; %%%%%%%%%%%%need' to change here 
 num_pixels_to_bin = 3; 
